@@ -1,2 +1,3 @@
-# urban-octo-barnacle
-golang concurrency
+# golang concurrency
+
+for practice
